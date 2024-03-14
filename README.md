@@ -1,3 +1,5 @@
+# This is @saithodev/semantic-release-gitea fork with up-to-date dependencies
+
 # @saithodev/semantic-release-gitea
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) plugin to publish a Gitea release.
